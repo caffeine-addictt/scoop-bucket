@@ -1,0 +1,22 @@
+{
+    "version": "0.2.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.2.4/waku_0.2.4_windows_amd64.zip",
+            "bin": [
+                "waku.exe"
+            ],
+            "hash": "1360bcfc066a921cb1a479c3c7b0b55b9f255121fd5cadfcce1e38b59d0dff95"
+        },
+        "arm64": {
+            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.2.4/waku_0.2.4_windows_arm64.zip",
+            "bin": [
+                "waku.exe"
+            ],
+            "hash": "857ed9494aee0e2530fb7864d4a8b39ea582a7715306f54fc2a5296e14e4250a"
+        }
+    },
+    "homepage": "https://github.com/caffeine-addictt/waku",
+    "license": "AGPL-3.0",
+    "description": "A simple template repository generator. Lets make starting new proejcts feel like a breeze again!"
+}

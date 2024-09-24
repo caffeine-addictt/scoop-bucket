@@ -1,26 +1,26 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.3.0/waku_Windows_i386.zip",
+            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.3.1/waku_Windows_i386.zip",
             "bin": [
                 "waku.exe"
             ],
-            "hash": "a74033d29be1d3c9f0c62589a20e5dee13acce90181f90b3f6c1a77c7faa62a5"
+            "hash": "33db8b5621d7a5290ea760fcf92c83ae8ff8803ee452dd9ef4d98c6f12b2cb6b"
         },
         "64bit": {
-            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.3.0/waku_Windows_x86_64.zip",
+            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.3.1/waku_Windows_x86_64.zip",
             "bin": [
                 "waku.exe"
             ],
-            "hash": "d40c8227c9335c0e90b8b1a8abd7088ad45e6f09cbd69dd4637d989b21ec1f0b"
+            "hash": "71b89b3a718e81d2a4d6f906527ea647d6d202b1264d806f68a8af523a4760dc"
         },
         "arm64": {
-            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.3.0/waku_Windows_arm64.zip",
+            "url": "https://github.com/caffeine-addictt/waku/releases/download/v0.3.1/waku_Windows_arm64.zip",
             "bin": [
                 "waku.exe"
             ],
-            "hash": "ef4b474cc566a0ef01d47f5480f741830e08cd2590bf825783e648a61161251e"
+            "hash": "135c8e6925d3eb255a64a93c763544310ad30fea12b22dc7ae974c6790ac5276"
         }
     },
     "homepage": "https://github.com/caffeine-addictt/waku",
